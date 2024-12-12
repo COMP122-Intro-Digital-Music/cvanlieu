@@ -1,19 +1,19 @@
 [
   {
     "name": "SampleOne",
-    "file": "samples/Untitled song-2.wav",
+    "file": "samples/Untitled_song-2.wav",
     "bpm": "120",
     "loop": "1m"
   },
   {
     "name": "SampleTwo",
-    "file": "samples/Untitled song.wav",
+    "file": "samples/Untitled_song.wav",
     "bpm": "120",
     "loop": "1m"
   },
   {
     "name": "SampleThree",
-    "file": "samples/Untitled song-3.wav",
+    "file": "samples/Untitled_song-3.wav",
     "bpm": "120",
     "loop": "1m"
   }
